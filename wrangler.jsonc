@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "pronail-complex-reviews",
+  "compatibility_date": "2026-04-16",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "."
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
